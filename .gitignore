@@ -1,0 +1,10 @@
+# 隐私 / 凭证，绝对不上传
+auth.json
+config.toml
+history.jsonl
+*.sqlite
+*.sqlite-*
+*.log
+*.bak
+.DS_Store
+installation_id
